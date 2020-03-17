@@ -14,7 +14,7 @@ description: Tin Tin Buffet in Auburn, Maine
 url: "yifustore.us"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
